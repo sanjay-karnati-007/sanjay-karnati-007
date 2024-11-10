@@ -35,22 +35,8 @@ I'm currently focused on:
 - **Deep Learning** for NLP and Computer Vision
 - Building and deploying **ML models** in production environments
 
-## 📈 GitHub Stats
-
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-
 ## 📫 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/sanjaykarnati](https://linkedin.com/in/sanjay-karnati)
-- **Email**: sanjay.karnati@example.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-karnati)
+- **Email**: karnatisanjay007@gmail.com
 
----
-
-This README gives a concise, professional summary of your background and interests, and you can personalize each section to better suit your tone and style. 
-
-To create this README on GitHub:
-1. Create a new repository with the name matching your GitHub username (e.g., `sanjaykarnati`).
-2. Add this README.md file to that repository.
-3. Once pushed, this will automatically display as your profile README.
-
-Let me know if you'd like further customization!
