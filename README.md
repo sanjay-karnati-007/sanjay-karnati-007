@@ -12,19 +12,19 @@ I'm a passionate Data Scientist and a Master's student in Computer Science at th
 - 💼 **Professional Experience**: 
   - Data Scientist at Nutrisystem
   - Former Senior Analyst and Intern at Capgemini Technology Services India Limited
-- 💡 **Skills**: Python, SQL, Java, Data Analysis, Machine Learning, Data Visualization
+- 💡 **Skills**: Python, SQL(Postgres, MYSQL), Java, Time Series Forecasting, Machine Learning, Neural Networks, Snowflake, DSA, DBMS
 
 ## 🔭 Current Focus
 
 I'm currently focused on:
 - Enhancing my expertise in **Machine Learning** and **Deep Learning**.
-- Working on projects that involve **NLP** and **Computer Vision**.
+- Working on projects that involve **NLP** and **GAN**.
 - Contributing to open-source projects that align with my interests in data science and artificial intelligence.
 
 ## 🛠️ Tech Stack
 
 - **Programming Languages**: C, Python, SQL, Java
-- **Data Science Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Data Science Libraries**: Pandas, NumPy, Scikit-Learn
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Tableau, Matplotlib, Seaborn
 - **Tools & Platforms**: Jupyter Notebook, Git, GitHub
@@ -32,7 +32,7 @@ I'm currently focused on:
 ## 🌱 I’m currently learning
 
 - Advanced **Machine Learning Techniques**
-- **Deep Learning** for NLP and Computer Vision
+- **Deep Learning** for NLP and GAN
 - Building and deploying **ML models** in production environments
 
 ## 📫 Connect with Me
