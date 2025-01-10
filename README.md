@@ -23,11 +23,11 @@ I'm currently focused on:
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages**: C, Python, SQL, Java
-- **Data Science Libraries**: Pandas, NumPy, Scikit-Learn
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
-- **Data Visualization**: Tableau, Matplotlib, Seaborn
-- **Tools & Platforms**: Jupyter Notebook, Git, GitHub
+- **Programming Languages**: C, C++, Python, SQL, Java
+- **Machine Learning & Libraries**:  Regression, Classification, Clustering, Feature Engineering, Neural Networks, Pattern Recognition, Pandas, Scikit Learn, TensorFlow, ARIMA, SARIMA, LSTM
+- **Databases**: SQL Server, Oracle DB, Mode, MongoDB, PostgreSQL, MySQL, Snowflake
+- **Web**: HTML5, CSS3, Bootstrap, JSON, Flask, JavaScript, React, NodeJS, RESTAPI 
+- **Proficiency**: Tableau, Git, A/B Testing, AWS, Time Series Forecasting, Big Data, Data Warehousing, Data Science, Data Structures and Algorithms, DBMS, Agile Methodologies
 
 ## 🌱 I’m currently learning
 
