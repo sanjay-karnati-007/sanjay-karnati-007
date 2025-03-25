@@ -10,8 +10,8 @@ I'm a passionate Data Scientist and a Master's student in Computer Science at th
   - Master of Science in Computer Science, University of South Florida
   - Bachelor of Technology in Computer Science and Engineering, CMR College of Engineering & Technology
 - 💼 **Professional Experience**: 
-  - Data Scientist at Nutrisystem
-  - Former Senior Analyst and Intern at Capgemini Technology Services India Limited
+  - Data Scientist at United HealthCare
+  - Former Senior Analyst at Capgemini Technology Services India Limited
 - 💡 **Skills**: Python, SQL(Postgres, MYSQL), Java, Time Series Forecasting, Machine Learning, Neural Networks, Snowflake, DSA, DBMS
 
 ## 🔭 Current Focus
