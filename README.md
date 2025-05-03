@@ -10,7 +10,6 @@ I'm a passionate Data Scientist and a Master's student in Computer Science at th
   - Master of Science in Computer Science, University of South Florida
   - Bachelor of Technology in Computer Science and Engineering, CMR College of Engineering & Technology
 - 💼 **Professional Experience**: 
-  - Data Scientist at United HealthCare
   - Former Senior Analyst at Capgemini Technology Services India Limited
 - 💡 **Skills**: Python, SQL(Postgres, MYSQL), Java, Time Series Forecasting, Machine Learning, Neural Networks, Snowflake, DSA, DBMS
 
@@ -34,9 +33,4 @@ I'm currently focused on:
 - Advanced **Machine Learning Techniques**
 - **Deep Learning** for NLP and GAN
 - Building and deploying **ML models** in production environments
-
-## 📫 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-karnati)
-- **Email**: karnatisanjay007@gmail.com
 
